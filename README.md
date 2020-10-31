@@ -43,3 +43,27 @@ Answer: All the people on the boat are married.
 
 15. Riddle: You walk into a room that contains a match, a kerosene lamp, a candle and a fireplace. What would you light first?
 Answer: The match
+
+16. Riddle: A man dies of old age on his 25 birthday. How is this possible?
+Answer: He was born on February 29.
+
+17. Riddle: I have branches, but no fruit, trunk or leaves. What am I?
+Answer: A bank
+
+18. Riddle: What can’t talk but will reply when spoken to?
+Answer: An echo
+
+19. Riddle: The more of this there is, the less you see. What is it?
+Answer: Darkness
+
+20. Riddle: David’s parents have three sons: Snap, Crackle, and what’s the name of the third son?
+Answer: David
+
+21. Riddle: I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?
+Answer: Your shadow
+
+22. Riddle: What has many keys but can’t open a single lock?
+Answer: A piano
+
+23. Riddle: What can you hold in your left hand but not in your right?
+Answer: Your right elbow
